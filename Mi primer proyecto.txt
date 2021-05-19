@@ -1,0 +1,21 @@
+¿Qué es el repositorio de GitHub?
+R: GitHub es una forja para alojar proyectos utilizando el 
+Sistema de control de versiones Git. Se utiliza
+Principalmente para la creación de código fuente de 
+Programas de ordenador. El software que opera GitHub fue
+escrito en Ruby on Rails. Desde enero de 2010, GitHub 
+opera bajo el nombre de GitHub.
+
+
+¿Qué es el archivo readme?
+R: Un archivo README contiene información acerca de otros
+Archivos en un directorio. Es una forma de documentación 
+De software, usualmente en un archivo de texto plano
+Llamado READ.ME, README.TXT, README.md,
+README. 1ST o simplemente README. En ocasiones, en 
+Español puede venir traducido como LEEME.TXT.
+
+
+
+
+
